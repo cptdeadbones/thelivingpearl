@@ -1,4 +1,4 @@
 thelivingpearl
 ==============
 
-The Living Pearl Example Code For Posts will go here
+<a href="http://www.thelinigpearl.com">The Living Pearl</a> Example Code For Posts will go here
